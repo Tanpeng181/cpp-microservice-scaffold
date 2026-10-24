@@ -1,0 +1,2 @@
+# CMake build directories (including those below test/).
+build/
